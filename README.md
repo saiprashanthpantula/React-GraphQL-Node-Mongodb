@@ -1,6 +1,6 @@
 # GraphQL + React Event Booking API  using Node JS 
 
-How to build a GraphQL API (with Node.js) and a React.js frontend from scratch.
+Building a sample project in React.js with GraphQL API and Node.js with MongoDB .
 
 # Usage.
 
