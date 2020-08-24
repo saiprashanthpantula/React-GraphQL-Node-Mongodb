@@ -1,2 +1,16 @@
-# React-Js-with-GraphQL-and-Node-Js-with-Mongo-DB
-A Sample Project React Js with GraphQL and Node Js with Mongo DB 
+# GraphQL + React Event Booking API  using Node JS 
+
+How to build a GraphQL API (with Node.js) and a React.js frontend from scratch.
+
+# Usage.
+
+Install all dependencies
+```sh
+npm install
+```
+
+Run the server
+```sh
+npm start
+```
+
